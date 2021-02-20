@@ -3,5 +3,7 @@ Content-Type: application/json
 
 {
     "id": 23432,
-    "petId": 23432
+    "customerId": 23432,
+    "preferredShipDate": "2021-05-02",
+    "status": "placed",
 }

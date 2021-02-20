@@ -1,0 +1,7 @@
+POST 
+Content-Type: application/json
+
+{
+    "id": 23432,
+    "petId": 23432
+}
